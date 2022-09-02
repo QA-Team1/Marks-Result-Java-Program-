@@ -29,7 +29,8 @@ public class MarksResult {
 				System.out.println("P= Highest");
 			}
 			else
-			{System.out.println("C= Highest");
+			{
+				System.out.println("C= Highest");
 
 			}
 		
